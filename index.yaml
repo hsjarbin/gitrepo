@@ -3,7 +3,7 @@ entries:
   gitrepo-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-07-10T22:16:20.205630566Z"
+    created: "2020-07-10T22:30:37.848968476Z"
     description: A Helm chart for Kubernetes
     digest: f198d4083f5259a169fa9dba03235c1c0aac0b389df7f26b743cb67e83be2043
     name: gitrepo-demo
@@ -11,4 +11,15 @@ entries:
     urls:
     - gitrepo-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-10T22:16:20.204920273Z"
+  gitrepo-demo2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-10T22:30:37.849458058Z"
+    description: A Helm chart for Kubernetes
+    digest: b418e414c1e45202e4ea37a441fd99182ab246c6c71fab98a55c6ec0623e4e87
+    name: gitrepo-demo2
+    type: application
+    urls:
+    - gitrepo-demo2-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-10T22:30:37.848236541Z"
